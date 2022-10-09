@@ -1,0 +1,41 @@
+{
+  "courses": [
+    {
+      "assignments": [
+        {
+          "grade": 100,
+          "title": "Test Assignment"
+        }
+      ],
+      "credits": 4,
+      "courseName": "CPSC 210"
+    },
+
+    {
+      "assignments": [
+        {
+          "grade": 80,
+          "title": "Test Assignment2"
+        }
+      ],
+      "credits": 3,
+      "courseName": "ENGL 110"
+    },
+
+    {
+      "assignments": [
+        {
+          "grade": 90,
+          "title": "Test Assignment3"
+        }
+      ],
+      "credits": 4,
+      "courseName": "BIOL 111"
+    }
+  ],
+
+  "tuitionPaid": 200,
+  "tuition": 1100,
+  "studentID": 1,
+  "name": "Test Student"
+}

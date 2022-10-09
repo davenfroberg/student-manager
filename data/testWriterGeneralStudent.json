@@ -1,0 +1,32 @@
+{
+    "studentID": 2,
+    "courses": [
+        {
+            "courseName": "CPSC 110",
+            "assignments": [{
+                "grade": 90,
+                "title": "Test Assignment"
+            }],
+            "credits": 4
+        },
+        {
+            "courseName": "CHEM 121",
+            "assignments": [{
+                "grade": 100,
+                "title": "Test Assignment2"
+            }],
+            "credits": 4
+        },
+        {
+            "courseName": "ENGL 111",
+            "assignments": [{
+                "grade": 80,
+                "title": "Test Assignment3"
+            }],
+            "credits": 3
+        }
+    ],
+    "name": "Test Student2",
+    "tuition": 1100,
+    "tuitionPaid": 100
+}
